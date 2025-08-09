@@ -24,14 +24,14 @@ export const contactsContent = {
       title: "Savininkai",
       list: [
         {
-          name: "Jonas Valuckas",
-          phone: "+370 612 34567",
-          email: "jonas@valuckuukis.lt",
+          name: "Alvytė Valuckienė",
+          phone: "+370 687 29812",
+          email: "valuckuukis@gmail.com",
         },
         {
-          name: "Petras Valuckas",
-          phone: "+370 612 34568",
-          email: "petras@valuckuukis.lt",
+          name: "Neringa Budrevičienė",
+          phone: "+370 652 73696",
+          email: "neringabudreviciene@gmail.com",
         },
       ],
     },
@@ -39,17 +39,18 @@ export const contactsContent = {
       icon: Briefcase,
       title: "Komanda",
       list: [
-        {
-          name: "Vadybininkas",
-          role: "Pardavimai ir užsakymai",
-          phone: "+370 612 34569",
-          email: "pardavimai@valuckuukis.lt",
+				{
+          name: "Eugenijus Valuckas",
+          phone: "+370 698 2748",
         },
         {
-          name: "Agronomas",
-          role: "Auginimo klausimai",
+          name: "Nauris Valuckas",
+          phone: "+370 68 639419",
+        },
+        {
+          name: "Saulius Budrevičius",
           phone: "+370 612 34570",
-          email: "agronomas@valuckuukis.lt",
+					/* role: "Ūkvedys-sandėlininkas" */
         },
       ],
     },
@@ -59,6 +60,6 @@ export const contactsContent = {
    */
   address: {
     title: "Mūsų adresas",
-    lines: ["Valuckų g. 1,", "Valuckų k., LT-12345, Lietuvos Respublika"],
+    lines: ["V. Pietario g. 58, Ramoniškių k., Pilviškių sen., LT‑70303 Vilkaviškio r."],
   },
 };

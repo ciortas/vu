@@ -7,8 +7,8 @@ export const layoutContent = {
    * Antraštės (navigacijos) nustatymai.
    */
   header: {
-    siteName: "Valuckų ūkis",
-    logoUrl: "https://picsum.photos/48",
+    siteName: "",
+    logoUrl: "/pic/logo.svg",
     navLinks: [
       { name: "Pradžia", sectionId: "home" },
 			{ name: "Naujienos", sectionId: "news" },
@@ -25,6 +25,6 @@ export const layoutContent = {
    * Poraštės (footer) nustatymai.
    */
   footer: {
-    copyright: "© 2024 Valuckų ūkis. Visos teisės saugomos.",
+    copyright: "© 2025 Valuckų ūkis. Visos teisės saugomos.",
   },
 };

@@ -27,12 +27,12 @@ export const productsContent = {
     {
       icon: Award,
       title: "Sertifikuota sėkla",
-      description: "2024 m. didžioji dalis bulvių pasodinta iš sertifikuotos sėklos",
+      description: "2025 m. bulvės pasodintos tik iš sertifikuotos sėklos",
     },
     {
       icon: Truck,
       title: "Pristatymas",
-      description: "Fasuojame pagal pageidavimą, pristatome į norimą vietą",
+      description: "Fasuojame pagal pageidavimą, didesnius kiekius pristatome į norimą vietą",
     },
     {
       icon: Calendar,
@@ -78,24 +78,25 @@ export const productsContent = {
       { name: "Emmanuelle", description: "Universali, kreminė tekstūra, gerai laikosi sandėlyje – tinkama virti ir košėms.", color: "Kreminė", type: "Universali" },
       { name: "Queen Anne", description: "Raudona žievė su geltonu minkštimu – dekoratyvi ir skoninga salotoms.", color: "Raudona", type: "Salotoms" },
       { name: "Colomba", description: "Balta žievė, miltingas baltas minkštimas – puikiai tinka traškučiams ir kepimui.", color: "Balta", type: "Kepimui" },
-			{ name: "Colomba2", description: "Balta žievė, miltingas baltas minkštimas – puikiai tinka traškučiams ir kepimui.", color: "Balta", type: "Kepimui" },
     ],
   },
   /**
-   * "Kitų kultūrų" skirtuko turinys.
+   * "Kitų kultūrų" skirtuko turinys. grikiai, avižos, kukurūzų grūdai, kviečiai, rapsai, garstyčios, lubinai, seradelės
    */
   otherCrops: {
     list: [
-      { name: "Grikiai", description: "Kokybiški grikių grūdai" },
+      { name: "Grikiai", description: "Aukštos kokybės grikiai, idealiai tinka maistui ir sveikam gyvenimo būdui." },
       { name: "Avižos", description: "Šviežiai nukultos avižos" },
       { name: "Kviečiai", description: "Aukštos kokybės kviečiai" },
-      { name: "Rapsai", description: "Aliejiniai rapso sėmenys" },
+      { name: "Rapsai", description: "Maistingi aliejiniai rapso sėmenys, naudojami tiek maistui, tiek aliejaus gamybai." },
       { name: "Garstyčios", description: "Aromatingi garstyčių grūdai" },
-      { name: "Kukurūzų grūdai", description: "Brandūs kukurūzų grūdai" },
+      { name: "Kukurūzų grūdai", description: "Brandūs, saldūs kukurūzų grūdai, naudojami maistui ir pašarams." },
+			{ name: "Lubinai", description: "Baltymingi ir maistingi lubinų grūdai, tinkami pašarams ir maistui." },
+			{ name: "Seradelės", description: "Kokybiškos seradelės, naudojamos maisto gamyboje ir pašarams." },
     ],
     cta: {
       title: "Užsakykite jau šiandien",
-      text: "Priimame užsakymus 2024 metų derliui. Susisiekite su mumis dėl kainų ir pristatymo sąlygų.",
+      text: "Priimame užsakymus 2025 metų derliui. Susisiekite su mumis dėl kainų ir pristatymo sąlygų.",
       buttonText: "Susisiekti",
     },
   },
